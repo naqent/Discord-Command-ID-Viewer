@@ -1,0 +1,24 @@
+{
+  "name": "discord-command-id-viewer",
+  "version": "1.0.0",
+  "description": "Bot Discord sederhana untuk menampilkan daftar slash command dan Command ID dari bot lain menggunakan Application ID dan Token bot target.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "command-id",
+    "discord.js",
+    "developer-tools"
+  ],
+  "author": "Naqent",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
