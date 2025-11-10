@@ -111,4 +111,3 @@ Kalau bot ini membantu kamu:
 - 🌟 Beri **Star** di repo ini  
 - 🐛 Laporkan bug di *Issues*  
 - 🧠 Bantu kembangkan lewat *Pull Request*
-- 
